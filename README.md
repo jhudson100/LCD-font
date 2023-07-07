@@ -1,8 +1,10 @@
 # LCD-font
 
+A font reminiscent of an LCD display. Uppercase only.
 
-Initial studies for an LCD-style font. Need to 
-decide which way to go with this.
+Copyright (c) 2014, 2023 J Hudson.
 
+This font was designed for a simple character-cell display,
+so only letters, numbers, and a few symbols are included.
 
-Copyright 2014 J Hudson.
+![sample](lcd.png)
